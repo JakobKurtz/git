@@ -1,5 +1,5 @@
 public class Program {
     public static void main(String[] args) {
-        System.out.println("Program file version 1");
+        System.out.println("Program file version 2");
     }
 }
